@@ -1,5 +1,3 @@
-# omegle-ip-grabber
-omegle ip grabber
 copy paste in dev tools console in google
 if u need help add revxyyx#3739 on discord
 const apikey = "my-api-key";
